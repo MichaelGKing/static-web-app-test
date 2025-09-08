@@ -2,7 +2,7 @@
   "routes": [
     {
       "route": "/maintenance",
-      "statusCode": 301
+      "rewrite": "/maintenance.html"
     }
   ]
 }
