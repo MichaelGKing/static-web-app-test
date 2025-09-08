@@ -11,6 +11,9 @@
     {
       "route": "/test3",
       "rewrite": "/maintenance"
+    },
+    {
+      "route": "/t"
     }
   ]
 }
