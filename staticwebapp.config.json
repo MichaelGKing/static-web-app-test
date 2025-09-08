@@ -1,1 +1,8 @@
-{}
+{
+  "routes": [
+    {
+      "route": "/maintenance",
+      "statusCode": 301
+    }
+  ]
+}
