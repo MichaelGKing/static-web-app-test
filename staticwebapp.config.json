@@ -1,12 +1,1 @@
-{
-  "routes": [
-    {
-      "route": "/maintenance",
-      "rewrite": "/maintenance.html"
-    },
-    {
-      "route": "*",
-      "rewrite": "/maintenance.html"
-    }
-  ]
-}
+{}
