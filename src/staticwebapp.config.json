@@ -1,16 +1,8 @@
 {
   "routes": [
     {
-      "route": "/test",
-      "redirect": "/maintenance.html"
-    },
-    {
-      "route": "/test2",
+      "route": "/*",
       "rewrite": "/maintenance.html"
-    },
-    {
-      "route": "/test3",
-      "rewrite": "/maintenance"
     }
   ]
 }
