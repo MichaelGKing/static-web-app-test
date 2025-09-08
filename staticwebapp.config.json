@@ -2,7 +2,8 @@
   "routes": [
     {
       "route": "/*",
-      "serve": "/maintenance.html"
+      "serve": "/maintenance.html",
+      "rewrite": "/maintenance.html"
     }
   ]
 }
