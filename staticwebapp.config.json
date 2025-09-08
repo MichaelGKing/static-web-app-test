@@ -3,6 +3,10 @@
     {
       "route": "/test",
       "redirect": "/maintenance.html"
+    },
+    {
+      "route": "/test2",
+      "rewrite": "/maintenance.html"
     }
   ]
 }
